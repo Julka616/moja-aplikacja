@@ -32,5 +32,5 @@ Użytkownik może wybrać jeden z trzech krajów: Polska, Niemcy lub Francja, a 
 
 **GitHub (repozytorium z kodem źródłowym)**: https://github.com/Julka616/moja-aplikacja
 
-**DockerHub (obraz aplikacji)**: https://hub.docker.com/repository/docker/jlasota123/moja-aplikacja/general
+**DockerHub (obraz aplikacji)**: https://hub.docker.com/r/jlasota123/moja-aplikacja
 
