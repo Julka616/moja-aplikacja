@@ -9,13 +9,13 @@ Użytkownik może wybrać jeden z trzech krajów: Polska, Niemcy lub Francja, a 
 
 ## 2. Struktura projektu
 
-├── public/
-│   └── style.css          # Style CSS dla aplikacji
-├── views/
-│   └── index.html         # Szablon HTML z formularzem
-├── app.js                 # Główny plik serwera Express
-├── Dockerfile             # Plik Dockerfile do budowania kontenera
-├── package.json           # Zależności npm i konfiguracja aplikacji
+ public/
+   └── style.css          # Style CSS dla aplikacji
+ views/
+   └── index.html         # Szablon HTML z formularzem
+ app.js                 # Główny plik serwera Express
+ Dockerfile             # Plik Dockerfile do budowania kontenera
+ package.json           # Zależności npm i konfiguracja aplikacji
 
 ## 3. Uruchamianie aplikacji
 
