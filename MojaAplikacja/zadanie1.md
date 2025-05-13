@@ -7,17 +7,8 @@ Aplikacja pogodowa została stworzona w technologii **Node.js** z użyciem frame
 Aplikacja wykorzystuje metodę POST do przesyłania danych z formularza i dynamicznie wyświetla wynik w przeglądarce użytkownika.
 Użytkownik może wybrać jeden z trzech krajów: Polska, Niemcy lub Francja, a następnie miasto dostępne w wybranym kraju.
 
-## 2. Struktura projektu
 
- public/
-   └── style.css          # Style CSS dla aplikacji
- views/
-   └── index.html         # Szablon HTML z formularzem
- app.js                 # Główny plik serwera Express
- Dockerfile             # Plik Dockerfile do budowania kontenera
- package.json           # Zależności npm i konfiguracja aplikacji
-
-## 3. Uruchamianie aplikacji
+## 2. Uruchamianie aplikacji
 
 1. Zbuduj obraz:
 
@@ -37,7 +28,7 @@ Użytkownik może wybrać jeden z trzech krajów: Polska, Niemcy lub Francja, a 
 
  Aplikacja będzie dostępna pod adresem `http://localhost:3000`.
 
-## 4. Linki
+## 3. Linki
 
 **GitHub (repozytorium z kodem źródłowym)**: https://github.com/Julka616/moja-aplikacja
 
