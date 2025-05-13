@@ -16,7 +16,7 @@ Użytkownik może wybrać jeden z trzech krajów: Polska, Niemcy lub Francja, a 
    
 2. Uruchom kontener:
    
-   docker run -d -p 3000:3000 --name moja-aplikacja moja-aplikacja
+   docker run -p 3000:3000 --name moja-aplikacja moja-aplikacja
 
 3. Sprawdzanie lagów:
   
